@@ -51,5 +51,8 @@ Neste projeto, desenvolvi um modelo preditivo de Machine Learning para prever o 
 
 - Scikit-learn (Regressão Linear, pré-processamento)
 
-- Jupyter Notebook (Análise e documentação)
+- Jupyter Notebook (Análise e documentação)<br><br>
+
+## 📌 Conclusão:<br><br>
+Este projeto demonstra como a Regressão Linear pode ser aplicada para prever o score de crédito, auxiliando instituições financeiras em decisões estratégicas. O modelo pode ser aprimorado com técnicas mais avançadas, como Random Forest, XGBoost ou Redes Neurais, para melhorar a precisão das previsões.
 
